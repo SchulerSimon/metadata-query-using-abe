@@ -21,23 +21,33 @@
 	 -  http://pages.cs.wisc.edu/~ace/install-charm.html
 
 #### run the prototype:
+
 ```cd [~repo]/prototype/```
+
 ```python3 pyrototype.py```
+
 the prototype is implemented with CPabe09. Because FAME has better performance the prototype should be updated to use FAME
 
 #### run string encoding with EEC
+
 ```cd [~repo]/string_encoding/```
+
 ```python3 concept.py```
+
 
 #### run the tests:
 for testing CPabe09 (slightly modified version to fit needs)
 (https://jhuisi.github.io/charm/charm/schemes/abenc/abenc_waters09.html#module-abenc_waters09)
+
 ```cd [~repo]/speed_tests/cp_abe/```
+
 ```python3 test.py```
 
 for testing FAME
 (https://jhuisi.github.io/charm/charm/schemes/abenc/ac17.html#ac17.AC17CPABE)
+
 ```cd [~repo]/speed_tests/fame_abe/```
+
 ```python3 test.py```
 <br>
 <br>
