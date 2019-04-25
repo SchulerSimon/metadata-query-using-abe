@@ -7,7 +7,7 @@
 #### contents:
 - ```[~repo]/prototype/``` contains a prototype to queue bit wise encoded metadata from nodes (or people) in a privacy preserving matter
 - ```[~repo]/tests/``` contains tests for encoding- and decoding-speed of different ABE-Schemes
-- ```[~repo]/string_encryption/``` contains a prototype for encoding strings with EEC (Elliptic Curve Cryptography). This could be very handy once the prototype is used in a more complex manner
+- ```[~repo]/string_encryption/``` contains a prototype for encoding strings with ECC (Elliptic Curve Cryptography). This could be very handy once the prototype is used in a more complex manner
 
 #### requirements:
 - ubuntu 18.04 LTS
