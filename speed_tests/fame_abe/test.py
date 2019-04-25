@@ -8,7 +8,7 @@ def test(number_of_attr, split_attributes):
     group = PairingGroup('MNT224')
     msg = group.random(GT)
 
-    cpabe = AC17CPABE(group, 1)
+    cpabe = AC17CPABE(group, 2)
     (public_key, master_secret_key) = cpabe.setup()
 
     attr_list = ['ATTR' + str(n) for n in range(number_of_attr)]
