@@ -1,4 +1,4 @@
-# metadata-queuing-using-abe
+# metadata-query-using-abe
 
 ##### this is a proof of concept, it is not designed to be used in production or enterprise context 
 - this project requires charm-crypto (a python wrapper for stanford pbc elliptic curve cryptography)
