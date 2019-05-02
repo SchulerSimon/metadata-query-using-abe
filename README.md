@@ -5,7 +5,7 @@
 	- see http://pages.cs.wisc.edu/~ace/install-charm.html
 
 #### contents:
-- ```[~repo]/prototype/``` contains a prototype to queue bit wise encoded metadata from nodes (or people) in a privacy preserving matter
+- ```[~repo]/prototype/``` contains a prototype to query bit wise encoded metadata from nodes (or people) in a privacy preserving matter
 - ```[~repo]/tests/``` contains tests for encoding- and decoding-speed of different ABE-Schemes
 - ```[~repo]/string_encryption/``` contains a prototype for encoding strings with ECC (Elliptic Curve Cryptography). This could be very handy once the prototype is used in a more complex manner
 
